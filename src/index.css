@@ -86,3 +86,15 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.not-found {
+  width: 100%;
+  padding: 20;
+  margin: 20px 0;
+  box-sizing: border-box;
+}
+
+.not-found p {
+  padding: 20;
+  margin: 20px 0;
+}
